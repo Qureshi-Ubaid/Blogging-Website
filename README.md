@@ -12,6 +12,7 @@ A feature-rich blogging platform built with HTML, CSS, and JavaScript. Create, r
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
+- [GitHub Statistics](#github-statistics)
 - [Features in Detail](#features-in-detail)
 - [Contributing](#contributing)
 - [License](#license)
@@ -39,6 +40,9 @@ A feature-rich blogging platform built with HTML, CSS, and JavaScript. Create, r
 - ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+- ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+- ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ### Tools & Services
 - **Responsive Web Design**: Mobile-first approach
@@ -134,6 +138,26 @@ Blogging-Website/
 ├── README.md                   # Project documentation
 └── .gitignore                  # Git ignore file
 ```
+
+---
+
+## 📊 GitHub Statistics
+
+### GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Qureshi-Ubaid&show_icons=true&theme=radical)
+
+### Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qureshi-Ubaid&langs_count=8&layout=compact&theme=radical)
+
+### Repository Statistics
+
+![GitHub repo size](https://img.shields.io/github/repo-size/Qureshi-Ubaid/Blogging-Website?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/Qureshi-Ubaid/Blogging-Website?style=flat)
+![GitHub stars](https://img.shields.io/github/stars/Qureshi-Ubaid/Blogging-Website?style=flat)
+![GitHub forks](https://img.shields.io/github/forks/Qureshi-Ubaid/Blogging-Website?style=flat)
+![GitHub issues](https://img.shields.io/github/issues/Qureshi-Ubaid/Blogging-Website?style=flat)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Qureshi-Ubaid/Blogging-Website?style=flat)
+![GitHub license](https://img.shields.io/github/license/Qureshi-Ubaid/Blogging-Website?style=flat)
 
 ---
 
